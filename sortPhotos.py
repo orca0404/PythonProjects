@@ -19,8 +19,11 @@ def move_and_sort_files_by_date(source_dir, target_dir):
             dest_folder = os.path.join(target_dir, year, month)
             os.makedirs(dest_folder, exist_ok=True)
             dest_path = os.path.join(dest_folder, entry)
-            shutil.move(src_path, dest_path)
-            print(f"Moved '{entry}' to '{dest_folder}'")
+            try:
+                shutil.move(src_path, dest_path)
+                print(f"Moved '{entry}' to '{dest_folder}'")
+            except Exception as move_err:
+                print(f"⚠️ Could not move '{src_path}' to '{dest_path}': {move_err}")
 
 
 # 🔧 Get directory from command line argument
