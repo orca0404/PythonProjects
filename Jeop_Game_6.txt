@@ -1,0 +1,302 @@
+FAQ:
+Q. How do I reset the links on the main board back to yellow?
+A. Simply close the PowerPoint file, and re-open, and the links will turn back to yellow.
+
+Q. Can I use this in Keynote / Google Slides / Open Office?
+A. Sorry, but Google slides, Keynote, Open Office etc. are not supported. Those are great programs but they’re not made to handle a file with this animation complexity.
+
+Q. Why aren’t the sound effects working?
+A. If the sound effects aren’t working, I would suggest upgrading your PowerPoint to something newer than 2008, and using a PC instead of a Mac if possible. Also, Google slides, Keynotes, etc. are not supported.
+
+Q. Can I get a board with less categories? Can I add a custom logo?
+A. Unfortunately these changes are a little too complex for me to explain or assist you via email, but if you’d like me to do a custom job for you for a small fee, send me an email at Reid@youthdownloads.com. You can also try using an App I made called TriviaMaker which lets you easily create Jeopardy style games and customize the number of categories, colors and logo at www.TriviaMaker.com 
+
+Q. Is there a tutorial I can watch to edit / play this game?
+Yes. To see it in action, or learn how to make edits, watch this video: https://youtu.be/tDC1mXh9NPE
+Q. How can I replace the categories quickly?
+Use Ctrl F for the following 
+OLD TESTAMENT KNOWLEDGE = Category 1
+GENERAL BIBLE TRIVIA = Category 2
+CAT1Q1 = Category1 Question 1
+CAT1A1  = Answer for cat1Q1
+
+FinalJepCAT = Final Jeopardy Category
+FinalJepQ - FInal Jepardy Question
+FinalJepA = Final Jepardy Answer
+
+
+
+JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY  JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY   
+JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY  JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY     JEOPARODY   
+HERE ARE TODAY’S CATEGORIES
+OLD TESTAMENT KNOWLEDGE
+GENERAL BIBLE TRIVIA
+HEBREW WORDS
+FAITH VERSES
+COMPLETE THE PROVERB
+NEW TESTAMENT KNOWLEDGE
+$100
+$100
+$100
+$100
+$100
+$200
+$200
+$200
+$200
+$200
+$200
+$300
+$300
+$300
+$300
+$300
+$300
+$400
+$400
+$400
+$400
+$400
+$400
+$500
+$500
+$500
+$500
+$500
+$500
+OLD TESTAMENT KNOWLEDGE
+GENERAL BIBLE TRIVIA
+HEBREW WORDS
+FAITH VERSES
+COMPLETE THE PROVERB
+NEW TESTAMENT KNOWLEDGE
+FINAL JEOPARODY
+$100
+$100 Question from Category: OLD TESTAMENT KNOWLEDGE
+Before Sin where did Adam and Eve live?
+$100 Answer from Category: OLD TESTAMENT KNOWLEDGE
+The Garden of Eden
+$200 Question from Category: OLD TESTAMENT KNOWLEDGE
+God promised the Israelites a land flowing with milk and _______________
+LEVITICUS 20:24
+Honey 
+$200 Answer from 
+OLD TESTAMENT KNOWLEDGE
+$300 Question from Category: 
+OLD TESTAMENT KNOWLEDGE
+Who dreamed that the sun and the moon and 11 stars bowed down to him?
+GENESIS 37: 5-9
+$300 Answer from Category: 
+OLD TESTAMENT KNOWLEDGE
+Joseph
+$400 Question from Category: 
+OLD TESTAMENT KNOWLEDGE
+How many times did Noah send out a dove from the ark?
+GENESIS 8:8-12
+$400 Answer from Category: 
+OLD TESTAMENT KNOWLEDGE
+Three times
+$500 Question from Category:
+ OLD TESTAMENT KNOWLEDGE
+What is the whole duty of man?
+ECCLESIASTES 12:13
+$500 Answer from Category:
+ OLD TESTAMENT KNOWLEDGE
+Fear God and keep his commandments
+$100 Question from 
+Category: GENERAL BIBLE TRIVIA
+Who is the second most mentioned man in the Bible?
+Answer $100
+Category: GENERAL BIBLE TRIVIA
+Kind David 
+He is mentioned 1,118 times in the Bible, making him the second most mentioned man behind only Jesus.
+$200 Question from 
+Category: GENERAL BIBLE TRIVIA
+What is the longest book in the Bible?
+$200 Answer 
+Category: GENERAL BIBLE TRIVIA
+Psalms (150 chapters)
+$300 Question from 
+Category: GENERAL BIBLE TRIVIA
+How many books in the bible are not divided into chapters
+$300 Answer 
+Category: GENERAL BIBLE TRIVIA
+Five 
+Obadiah, Philemon, 2 John, 3 John, and Jude.
+$400 Question from 
+Category: GENERAL BIBLE TRIVIA
+Who built the temple in Israel?
+1 KINGS 6:1
+$400 Answer from 
+Category: GENERAL BIBLE TRIVIA
+King Solomon
+$500 Question from 
+Category: GENERAL BIBLE TRIVIA
+Only book in the bible that does not mention God
+$500 Answer from
+ Category: GENERAL BIBLE TRIVIA
+Esther
+$100 Question from 
+Category: HEBREW WORDS
+SHALOM
+$100 Question from 
+Category: HEBREW WORDS
+Peace, completeness
+$200 Question from 
+Category: HEBREW WORDS
+SHALEM
+$200 Answer from 
+Category: HEBREW WORDS
+Whole heartedly
+$300 Question from 
+Category: HEBREW WORDS
+SHEMA
+$300 Answer from 
+Category: HEBREW WORDS
+to hear, Obey
+$400 Question from
+Category: HEBREW WORDS
+MAAN
+$400 Answer from
+Category: HEBREW WORDS
+Purpose, reason
+$500 Question from
+Category: HEBREW WORDS
+AYIN TOVAH
+$500 Answer from
+Category: HEBREW WORDS
+A Good Eye
+$100 Question from
+Category: FAITH VERSES
+$100 Answer from
+Category: FAITH VERSES
+For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes,   
+Romans 1:16 (ESV)
+$200 Question from
+Category: FAITH VERSES
+$200 Answer from
+Category: FAITH VERSES
+For the grace of God has appeared, bringing salvation for all people,  
+Titus 2:11(ESV)
+$300 Question from
+Category: FAITH VERSES
+JOHN
+$300 Answer from
+Category: FAITH VERSES
+For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+John 3:16 (ESV)
+$400 Question from 
+Category: FAITH VERSES
+Philippians
+Source Cat4Q4
+$400 Answer from
+Category: FAITH VERSES
+I can do all things through him who strengthens me.
+Philippians 4:13(ESV)
+$500 Question from 
+Category: FAITH VERSES
+$500 Answer from
+Category: FAITH VERSES
+But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; 
+Galatians 5:22-23 (ESV)
+$100 Question from 
+Category: COMPLETE THE PROVERB
+The fear of the Lord is the beginning of ______ and the knowledge of the Holy One is insight.
+Proverbs 9:10
+$100 Answer from
+Category: COMPLETE THE PROVERB
+The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight.
+Proverbs 9:10 (ESV)
+$200 Question from 
+Category: COMPLETE THE PROVERB
+Be not wise in your own _____; fear the Lord, and turn away from evil.
+Proverbs 3:7 (ESV)
+$200 Answer from
+Category: COMPLETE THE PROVERB
+Be not wise in your own eyes; fear the Lord, and turn away from evil.
+Proverbs 3:7 (ESV)
+$300 Question from
+Category: COMPLETE THE PROVERB
+Proverbs 13:1 (ESV)
+A wise son hears his father’s instruction, but a scoffer does not _______ to rebuke.
+$300 Answer from 
+Category: COMPLETE THE PROVERB
+Proverbs 3:7 (ESV)
+A wise son hears his father’s instruction, but a scoffer does not listen to rebuke.
+$400 Question from 
+Category: COMPLETE THE PROVERB
+Proverbs 8:36 (ESV)
+but he who fails to find me injures himself; all who hate me love ______.
+$400 Answer from
+Category: COMPLETE THE PROVERB
+Proverbs 8:36 (ESV)
+but he who fails to find me injures himself; all who hate me love death.
+$500 Question from
+Category: COMPLETE THE PROVERB
+Proverbs 19:8 (ESV)
+Whoever gets sense loves his own _____; he who keeps understanding will discover good
+$500 Answer from Category: COMPLETE THE PROVERB
+Proverbs 19:8 (ESV)
+Whoever gets sense loves his own soul; he who keeps understanding will discover good
+$100 Question from
+ Category: NEW TESTAMENT KNOWLEDGE
+Which type of stories did Jesus use to teach his disciples?
+$100 Answer from
+ Category: NEW TESTAMENT KNOWLEDGE
+Parables
+$200 Question from
+ Category: NEW TESTAMENT KNOWLEDGE
+What bit Paul while he was shipwrecked on the island of Malta?
+ACTS 28:1-5
+$200 Answer from
+ Category: NEW TESTAMENT KNOWLEDGE
+a Snake
+$300 Question from
+ Category: NEW TESTAMENT KNOWLEDGE
+On what day did the Holy Spirit descend on the apostles in the form of tongues of fire?
+ACTS 2:1-4
+$300 Answer from
+ Category: NEW TESTAMENT KNOWLEDGE
+The Day of Pentecost
+$400 Question from
+ Category: NEW TESTAMENT KNOWLEDGE
+Who asked for John the Baptist's head on a platter?
+MARK 6:22-25
+$400 Answer from
+ Category: NEW TESTAMENT KNOWLEDGE
+Salome
+$500 Question from
+ Category: NEW TESTAMENT KNOWLEDGE
+Of the 27 books in the New Testament, how many have been attributed to the Apostle Paul?
+$500 Answer from
+ Category: NEW TESTAMENT KNOWLEDGE
+Fourteen
+Category: Bible Analytics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start Timer
+GO TO
+PROMPT
+(RESPONSE)
+How many total books are in the bible?
+
+66 Total books
+39 Old testament & 27 New testament
